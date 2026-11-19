@@ -1,0 +1,7 @@
+{
+  "servers": {
+      "my-tool": {
+        "url": "http://localhost:5001/mcp"
+      }
+    }
+  }
